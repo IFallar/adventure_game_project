@@ -1,0 +1,3 @@
+Baleares
+
+https://www.redblobgames.com/maps/mapgen2/embed.html#seed=524&variant=4&size=large&noisy-fills=&noisy-edges=true&biomes=true&north-temperature=1.5&south-temperature=-1.15&persistence=0.25
