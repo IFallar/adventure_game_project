@@ -1,3 +1,3 @@
-msg = input("Enter Your Name: ")
+import pygame
 
-print(msg)
+WIN = pygame.display.set_mode(())
