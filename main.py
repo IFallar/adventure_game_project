@@ -54,11 +54,7 @@ def main():
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 run = False
-
-        if player_ch.y > 450/1.45 - 25:
-            player_ch.x += -1
-            player_ch.y += -.4
-            
+           
         bg_draw(player_ch)
 
     pygame.QUIT
